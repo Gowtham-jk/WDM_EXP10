@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 29-08-2025
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,10 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1696" height="924" alt="Screenshot 2025-08-29 111826" src="https://github.com/user-attachments/assets/bd556b62-4df8-47b5-a532-0fc0f3bb7729" />
+
+<img width="1697" height="924" alt="Screenshot 2025-08-29 111931" src="https://github.com/user-attachments/assets/566ae6fd-c521-4773-ba67-2e3b8fc8bddc" />
+
 
 ### Result:
+Thus the experiment to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer is completed successfully.
